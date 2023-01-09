@@ -15,8 +15,9 @@ author = 'Isaac Lera and Gabriel Moyà'
 
 extensions = ["nbsphinx"]
 master_doc = "index"
-highlight_language = 'python3'
+highlight_language = 'python'
 templates_path = ['_templates']
+
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store','**.ipynb_checkpoints']
 
 

@@ -7,25 +7,25 @@ Welcome to Taller Python FEE's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Lessons
 
    lessons/00/template
    lessons/01/template
    
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Homework
 
    homework/00/act00
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
 
 
 .. note::
