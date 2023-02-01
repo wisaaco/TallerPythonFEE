@@ -10,14 +10,15 @@ Welcome to Taller Python FEE's documentation!
    :maxdepth: 1
    :caption: Lessons
 
-   lessons/00/template
-   lessons/01/template
+   lessons/1/1_PythonIntroduccio
+   lessons/1/2_PandasIntroduccio
    
 .. toctree::
    :maxdepth: 1
    :caption: Homework
 
-   homework/00/act00
+   homework/00/activitat_1_1
+   homework/00/activitat_1_2
 
 
 .. Indices and tables
