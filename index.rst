@@ -8,14 +8,23 @@ Welcome to Taller Python FEE's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lessons
+   :caption: Unitats
 
    lessons/1/1_PythonIntroduccio
    lessons/1/2_PandasIntroduccio
+
+   ..  TODO add/uncommemt other notebooks
+   .. lessons/2/2_Pandas
+   .. lessons/3/3_Pandas
+
+   lessons/4/4_PandasGroups
+   lessons/5/5_PandasVisualitzacions
+
+
    
 .. toctree::
    :maxdepth: 1
-   :caption: Homework
+   :caption: Deures
 
    homework/00/activitat_1_1
    homework/00/activitat_1_2
