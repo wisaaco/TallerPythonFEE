@@ -12,15 +12,12 @@ Welcome to Taller Python FEE's documentation!
 
    lessons/1/1_PythonIntroduccio
    lessons/1/2_PandasIntroduccio
+   lessons/4/4_PandasGroups
+   lessons/5/5_PandasVisualitzacions
 
    ..  TODO add/uncommemt other notebooks
    .. lessons/2/2_Pandas
    .. lessons/3/3_Pandas
-
-   lessons/4/4_PandasGroups
-   lessons/5/5_PandasVisualitzacions
-
-
    
 .. toctree::
    :maxdepth: 1
