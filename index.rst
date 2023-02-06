@@ -7,7 +7,7 @@ Welcome to Taller Python FEE's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Lessons
 
    lessons/1/1_PythonIntroduccio
