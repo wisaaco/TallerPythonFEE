@@ -25,6 +25,8 @@ Welcome to Taller Python FEE's documentation!
 
    homework/00/activitat_1_1
    homework/00/activitat_1_2
+   homework/00/activitat_4
+   homework/00/activitat_5
 
 
 .. Indices and tables
