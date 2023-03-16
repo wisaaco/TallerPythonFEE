@@ -13,6 +13,7 @@ Welcome to Taller Python FEE's documentation!
    lessons/1/1_PythonIntroduccio
    lessons/1/2_PandasIntroduccio
    lessons/2/1_Pandas_Seleccio
+   lessons/2/2_Pandas_Modificacio
    lessons/4/4_PandasGroups
    lessons/5/5_PandasVisualitzacions
 
