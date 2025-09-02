@@ -12,8 +12,8 @@ Welcome to Taller Python FEE's documentation!
 
    notebooks/1_PythonIntroduccio
    notebooks/2_PandasIntroduccio
-   notebooks/3_Pandas_Seleccio
-   notebooks/4_Pandas_Modificacio
+   notebooks/3_PandasSeleccio
+   notebooks/4_PandasModificacio
    notebooks/5_PandasGroups
    notebooks/6_PandasVisualitzacions
    
