@@ -217,8 +217,6 @@ models/
 # *.json
 # *.xml
 
-# Jupyter notebook outputs
-*.ipynb
 
 # MLflow
 mlruns/
