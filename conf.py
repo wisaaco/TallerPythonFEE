@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Taller Python FEE'
-copyright = '2023, Isaac Lera and Gabriel Moyà'
+copyright = '2025, Isaac Lera and Gabriel Moyà'
 author = 'Isaac Lera and Gabriel Moyà'
 
 # -- General configuration ---------------------------------------------------
