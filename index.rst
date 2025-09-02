@@ -21,8 +21,8 @@ Welcome to Taller Python FEE's documentation!
    :maxdepth: 1
    :caption: Deures
 
-   homework/activitat_1_1
-   homework/activitat_1_2
+   homework/activitat_1
+   homework/activitat_2
    homework/activitat_4
    homework/activitat_5
 
